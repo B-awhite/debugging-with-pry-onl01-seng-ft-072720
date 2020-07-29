@@ -1,5 +1,3 @@
-def plus_two(num+2==sum)
-  sum=5
-  puts sum
+def plus_two(num
   binding.pry
 end
